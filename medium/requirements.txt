@@ -1,0 +1,4 @@
+Scrapy==2.5.1
+Scrapy-UserAgents==0.0.1
+scrapy-zyte-smartproxy==2.1.0
+shub==2.13.0

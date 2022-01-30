@@ -1,0 +1,38 @@
+Cluster 0
+’ | big | scientist | model | structure | python | analysis | ? | using | : | deep | science | machine | learning | data
+
+Cluster 1
+javascript | startup | work | build | python | app | thing | writing | business | life | react | make | way | using | .
+
+Cluster 2
+crypto | security | new | . | , | javascript | startup | guide | part | & | biggest | cryptosphere | ’ | story | :
+
+Cluster 3
+! | & | data | javascript | . | python | using | — | , | ? | ’ | : | part | ( | )
+
+Cluster 4
+get | future | time | business | startup | bitcoin | make | work | really | . | want | , | : | ’ | ?
+
+Cluster 5
+basic | javascript | crypto | & | edge | python | react | , | : | . | news | ? | ’ | part | —
+
+Cluster 6
+time | make | business | startup | blockchain | work | crypto | — | : | ? | . | , | ’ | ” | “
+
+Cluster 7
+like | work | ? | people | make | writer | know | thing | time | let | guide | , | ‘ | . | ’
+
+Cluster 8
+important | business | . | month | startup | first | leadership | life | : | writing | year | thing | ’ | lesson | learned
+
+Cluster 9
+writing | : | ever | business | tool | . | , | code | ? | ’ | way | — | javascript | practice | best
+
+Cluster 10
+one | week | time | ! | want | using | new | & | : | mission | newsletter | . | ’ | … | ,
+
+Cluster 11
+new | guide | — | build | development | design | building | team | . | : | ? | ’ | management | manager | product
+
+Cluster 12
+new | project | solution | platform | world | . | , | future | — | ’ | industry | : | technology | ? | blockchain
